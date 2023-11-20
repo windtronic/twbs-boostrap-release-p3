@@ -17,7 +17,7 @@ Write the list of releases to a CSV file.  In the file write:
 
 1. Fork and clone this repository to your local machine
 2. Open the repository in Visual Studio Code
-3. Naviagte to releases.py file
+3. Navigate to releases.py file
 
 4. Run the following code in your terminal ---->  pip install requests
    - This will allow us to make HTTP requests and fetch data from the GitHub API.
