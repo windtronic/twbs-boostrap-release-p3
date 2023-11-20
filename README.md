@@ -27,6 +27,6 @@ Write the list of releases to a CSV file.  In the file write:
 1. Open a terminal or command prompt.
 2. Navigate to the project directory where the releases.py script is located.
 3. Run the Python Script  ----> python releases.py
-   After the script is completed, you will find a file named bootstrap_releases.csv in the same directory. This file contains the 
-   release data.
+   - After the script is completed, you will find a file named bootstrap_releases.csv in the same directory. This file contains 
+     the release data.
 
